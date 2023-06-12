@@ -11,8 +11,12 @@
             "id": "f3397645b3718a44",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WordForEveryDay.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WordForEveryDay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "WordForEveryDay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WordForEveryDay.md"
+              }
             }
           }
         ]
@@ -140,6 +148,7 @@
   },
   "active": "f3397645b3718a44",
   "lastOpenFiles": [
+    "word.md",
     "WordForEveryDay.md"
   ]
 }
